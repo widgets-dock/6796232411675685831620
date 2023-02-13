@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "799741672712",
+    "project_id": "manhwa-webtoon",
+    "storage_bucket": "manhwa-webtoon.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:799741672712:android:24f5d517a76b2b40abc0bd",
+        "android_client_info": {
+          "package_name": "com.anukupedot.mhnwbtno"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "799741672712-5fg2h4d3hmgdodf7292kugcfiqh3cb4c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAz3VijyE4rjbLNweK8VEClRmseKr_Vyp8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "799741672712-5fg2h4d3hmgdodf7292kugcfiqh3cb4c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
